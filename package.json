@@ -1,0 +1,13 @@
+{
+	"name": "fast-map-filter",
+	"type": "module",
+	"version": "1.0.0",
+	"description": "fast map/filter chains",
+	"scripts": {
+		"test": "node test.js"
+	},
+	"exports": "./fast-map-filter.js",
+	"keywords": ["map", "filter", "map reduce", "map-reduce"],
+	"author": "jauntywunderkind",
+	"license": "MIT"
+}
