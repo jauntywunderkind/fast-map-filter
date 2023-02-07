@@ -1,12 +1,12 @@
 {
 	"name": "fast-map-filter",
 	"type": "module",
-	"version": "1.0.2",
+	"version": "1.0.3",
 	"description": "fast map/filter chains",
 	"scripts": {
 		"test": "node test.js"
 	},
-    "main": "./fast-map-filter.js",
+	"main": "./fast-map-filter.js",
 	"exports": "./fast-map-filter.js",
 	"keywords": [
 		"map",
