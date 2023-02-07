@@ -6,8 +6,11 @@
 	"scripts": {
 		"test": "node test.js"
 	},
-	"main": "./fast-map-filter.js",
-	"exports": "./fast-map-filter.js",
+	"exports": {
+		"import": "./fast-map-filter.js",
+		"require": "./fast-map-filter.cjs",
+		"default": "./fast-map-filter.js"
+	},
 	"keywords": [
 		"map",
 		"filter",
