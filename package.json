@@ -6,6 +6,7 @@
 	"scripts": {
 		"test": "node test.js"
 	},
+    "main": "./fast-map-filter.js",
 	"exports": "./fast-map-filter.js",
 	"keywords": [
 		"map",
