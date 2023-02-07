@@ -60,7 +60,6 @@ export async function asyncFastMapFilter(arr, ...fns) {
 			}
 		}
 
-	console.log({el})
 		output[pos++] = el
 	}
 
